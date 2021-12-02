@@ -37,10 +37,10 @@ const Skills = () => {
               
               <div className="skills">
         
-              <div><img src={js} alt="js"/></div>
+              {/* <div><img src={js} alt="js"/></div>
               <div><img src={nodejs} alt="nodejs"/></div>
               <div><img src={mongodb} alt="mongodb"/></div>
-              <div><img src={redis} alt="redis"/></div>
+              <div><img src={redis} alt="redis"/></div> */}
               {/* <div className="desc2">
               <h4 className="subtitle">Also a back end developer.</h4>
               <div><img src={github} alt="git"/></div>
