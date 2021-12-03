@@ -22,6 +22,16 @@ const SocialLinks = props => {
           {' '}
           <i className="fab fa-linkedin" />
         </a>
+        <a
+          href="https://medium.com/@SeemAlam"
+          target="_blank"
+          rel="noopener noreferrer"
+          title="Link to author's Medium Profile"
+        >
+          {' '}
+          <i className="fab fa-medium" />
+        </a>
+
 
       </div>
     );

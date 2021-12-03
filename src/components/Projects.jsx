@@ -1,5 +1,5 @@
 import Project from "./Project";
-import shopstop from '../images/shoppersstop.png';
+import shopstop from '../images/shoppersstop2.png';
 import spareshub from '../images/spareshub2.png';
 import caddycool from '../images/caddycool.png';
 
@@ -23,20 +23,20 @@ const Projects = props => {
           <div className="projects-wrapper">
            
             <Project
-              title="Clone of Shoppersstop.com."
+              title="Clone of Shoppersstop.com"
               img={shopstop}
               tech="js node css mongobd"
               link="https://shoppesstop-clone.herokuapp.com/home#"
               repo="https://github.com/HardikThummar97/Shoppersstop.com_clone_2.0"
             >
-              <small>Built using HTML | CSS | Javascript | local storage | Node | MongoDB | EJS </small>
+              <small>Built using EJS | CSS | Javascript | local storage | Node | MongoDB </small>
               <p>
-              A web application to clone e-commerce websites that sells the luxury products.
+              A web application to clone e-commerce website that sells the luxury products.
               </p>
             </Project>
 
             <Project
-              title="Clone of Spareshub.com."
+              title="Clone of Spareshub.com"
               img={spareshub}
               tech="js node css mongodb bootstrap"
               link="https://spareshub-clone.herokuapp.com/"
@@ -51,7 +51,7 @@ const Projects = props => {
             </Project>
 
             <Project
-              title="Caddy Cool."
+              title="Caddy Cool"
               img={caddycool}
               tech="bootstrap react node css mongodb"
               link="https://caddycool.vercel.app/"

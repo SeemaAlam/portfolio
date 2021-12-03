@@ -5,9 +5,10 @@
       sass: 'fab fa-sass',
       css: 'fab fa-css3-alt',
       js: 'fab fa-js-square',
+      html:'fab fa-html',
       react: 'fab fa-react',
-      vue: 'fab fa-vuejs',
-      d3: 'far fa-chart-bar',
+      bootstrap: 'fab fa-bootstrap',
+      mongodb: 'fas fa-mongodb',
       node: 'fab fa-node'
     };
   
