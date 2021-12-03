@@ -905,6 +905,12 @@ width: 50%;
   transition: all 300ms;
 }
 
+.project-image {
+ height: 300px;
+ width: 300px;
+ margin: auto;
+}
+
 /* Project Details */
 #projects .project .project-details {
   margin: auto 0;
@@ -971,6 +977,11 @@ width: 50%;
   #projects .project {
     grid-template-columns: 1fr 2fr;
   }
+  .project-image {
+    height: 200px;
+    width: 200px;
+    margin: auto;
+   }
 }
 
 @media only screen and (max-width: 949px) {
