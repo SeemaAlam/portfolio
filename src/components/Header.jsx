@@ -1,4 +1,4 @@
-import seema from "../images/CYMERA_20210324_004606-removebg.png"
+import seema from "../images/seema_professional_photo-removebg-preview.png"
 
 const Header = props => {
     return (
