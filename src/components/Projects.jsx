@@ -2,6 +2,7 @@ import Project from "./Project";
 import shopstop from '../images/shoppersstop2.png';
 import spareshub from '../images/spareshub2.png';
 import caddycool from '../images/caddycool.png';
+import acko from '../images/acko.png'
 
 const Projects = props => {
     return (
@@ -61,6 +62,19 @@ const Projects = props => {
               </small>
               <p>
               An app for diabetes management
+              </p>
+            </Project>
+            <Project
+              title="Acko insurance clone"
+              img={acko}
+              tech="react node css mongodb"
+              link="https://ackoclone-huxly123.vercel.app/"
+              repo="https://github.com/pratikjadhav718/ACKO"
+            >
+              <small>Built using React | CSS  | Axios | react-router-dom | Mongoose and Mongodb Atlas | Express js | Nodejs
+              </small>
+              <p>
+              An Insurance app for cars
               </p>
             </Project>
            
