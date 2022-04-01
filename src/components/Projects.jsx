@@ -64,7 +64,7 @@ const Projects = props => {
               An app for diabetes management
               </p>
             </Project>
-            <Project
+            {/* <Project
               title="Acko insurance clone"
               img={acko}
               tech="react node css mongodb"
@@ -76,7 +76,7 @@ const Projects = props => {
               <p>
               An Insurance app for cars
               </p>
-            </Project>
+            </Project> */}
            
             
           </div>
